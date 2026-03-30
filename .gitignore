@@ -1,12 +1,2 @@
-# Python-generated files
-__pycache__/
-*.py[oc]
-build/
-dist/
-wheels/
-*.egg-info
-game_stat.jsonl
-
-# Virtual environments
-.venv
-
+game_state.jsonl
+game_events.jsonl
