@@ -15,3 +15,6 @@ class Shot(CircleShape):
 
     def update(self, dt):
         self.position += (self.velocity * dt)
+
+   
+
